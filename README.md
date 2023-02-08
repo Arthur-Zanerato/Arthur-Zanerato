@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arthur-Zanerato
 - 👀 I’m interested in learning more & more...
-- 🌱 I’m currently learning new front-end languages
+- 🌱 I’m currently learning new front-end skills
 - 📫 How to reach me: zaneratoarthur42@gmail.com
 
 <!---
